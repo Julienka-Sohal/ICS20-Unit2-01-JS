@@ -9,6 +9,6 @@
  * @constructor
  */
 
-function myButtonClicked () {
-  document.getElementById ("Hello-World").innerHTML = "<p>Hello World!</p>"
+function myButtonClicked() {
+  document.getElementById("Hello-World").innerHTML = "<p>Hello World!</p>"
 }
